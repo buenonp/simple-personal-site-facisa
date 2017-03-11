@@ -5,10 +5,13 @@ body {
 header {
 	background-color: #607D8B;
 	text-align: center;
+	padding: 5px;
 }
 
 section {
 	background-color: #CFD8DC;
+	padding: 10px;
+	margin: 20px;
 }
 
 footer {
@@ -17,4 +20,6 @@ footer {
 	position: absolute;
 	bottom: 0;
 	width: 100%;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
