@@ -12,6 +12,8 @@ header {
 
 	header .profile-picture {
 		border-radius: 50%;
+		width: 125px;
+		height: 125px;
 	}
 
 section {
