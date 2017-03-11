@@ -1,9 +1,10 @@
 body {
-	background-color: red; 
+	background-color: red;
 }
 
 header {
 	background-color: blue;
+	text-align: center;
 }
 
 section {
